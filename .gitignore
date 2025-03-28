@@ -1,0 +1,4 @@
+bckp.txt
+.venv
+*.pyc
+*/pycache
